@@ -118,8 +118,10 @@ plt.show()
 ```
 # Output Waveform
 ## ASK
+<img width="733" height="419" alt="Screenshot 2026-03-13 133033" src="https://github.com/user-attachments/assets/2975c3ea-cf26-4174-87f5-9fa0589003cd" />
 
-
+## FSK
+<img width="753" height="487" alt="Screenshot 2026-03-13 133115" src="https://github.com/user-attachments/assets/1f95cd10-1bea-4132-b7e4-8a5e1ea0c0f3" />
 
 # Results
 Thus the ASK  &  FSK are simulated using Python Program in Google Colab
